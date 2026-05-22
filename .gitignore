@@ -4,3 +4,18 @@ public/
 *.log
 .DS_Store
 Thumbs.db
+
+# Hexo cache
+db.json
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
